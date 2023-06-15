@@ -1,0 +1,20 @@
+{
+  "store.home": { 
+    "blocks": [
+      "rich-text",
+      "countdown.productvtex",
+      "countdown.BlogPage"
+      // "ContentfulToCms"
+      // "countdown.ProductCollection",
+      // "countdown.Connector"
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "VTEX",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  }
+}
